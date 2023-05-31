@@ -1,6 +1,5 @@
 fun main(){
     println(romanToInt("XIV"))
-
 }
 
 fun romanToInt(s: String): Int {
