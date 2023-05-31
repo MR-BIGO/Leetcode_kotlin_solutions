@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/reverse-integer/
+package medium//https://leetcode.com/problems/reverse-integer/
 
 fun main(){
 

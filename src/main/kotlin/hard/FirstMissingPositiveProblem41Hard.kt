@@ -1,3 +1,5 @@
+package hard
+
 fun main(){
     val arr = intArrayOf()
     println(firstMissingPositive(arr))

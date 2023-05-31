@@ -1,3 +1,5 @@
+package easy
+
 fun main(){
     println(strStr("leetcode", "leeto"))
 

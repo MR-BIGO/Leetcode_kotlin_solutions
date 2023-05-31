@@ -1,3 +1,5 @@
+package easy
+
 fun main(){
     val arr = intArrayOf(1,3,5,6)
     println(searchInsert(arr, 7))

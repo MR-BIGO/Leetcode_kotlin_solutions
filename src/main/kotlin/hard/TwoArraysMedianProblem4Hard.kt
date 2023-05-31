@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/median-of-two-sorted-arrays/
+package hard//https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 
 fun main(){
